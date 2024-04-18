@@ -1,0 +1,27 @@
+[
+    {
+        "text": "so this is a test to see if i can get the api part to work",
+        "user_id": 2,
+        "post_id": 2
+    },
+    {
+        "text": "lalalallalala",
+        "user_id": 1,
+        "post_id": 2
+    },
+    {
+        "text": "HEEEEEEEEEEEECCCCCCCCCCCCCCCCCCCCCCCCCCCCC",
+        "user_id": 1,
+        "post_id": 1
+    },
+    {
+        "text": "BLAHBLAHBLAH",
+        "user_id": 3,
+        "post_id": 1
+    },
+    {
+        "text": "BLAHBLAHBLAH",
+        "user_id": 2,
+        "post_id": 4
+    }
+]

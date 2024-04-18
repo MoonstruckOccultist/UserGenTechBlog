@@ -1,0 +1,22 @@
+[
+    {
+        "title": "Test1",
+        "text": "so this is a test to see if i can get the api part to work",
+        "user_id": "2"
+    },
+    {
+        "title": "Test2",
+        "text": "blakjlsda kjasjdklsl aksldj ",
+        "user_id": "3"
+    },
+    {
+        "title": "HECC",
+        "text": "this shit is hard",
+        "user_id": "1"
+    },
+    {
+        "title": "IDK",
+        "text": "i have no idea if this is gonna work but dear satan i hope it does",
+        "user_id": "1"
+    }
+]
